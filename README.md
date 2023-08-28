@@ -1,8 +1,8 @@
 #  To-Do App
 
 The To-Do App is a feature-rich web application that allows users to manage their tasks effectively. This app goes beyond the basic to-do functionality and incorporates features like task priority, due dates, and task completion tracking. With a modern and responsive design, users can seamlessly create, organize, and keep track of their tasks.
-<br>
-Features
+
+<h3>Features</h3>
 Task Priority: Assign priority levels to tasks, such as high, medium, or low, helping you manage your tasks based on their importance.
 Due Dates: Set due dates for tasks, ensuring that you stay on top of your commitments and deadlines.
 Task Completion: Mark tasks as completed using checkboxes, and completed tasks are visually differentiated for easy identification.
